@@ -40,7 +40,7 @@ If you have pip already installed, enter the following line to install packages:
 
 ## Get and install Sekator
 
-* Clone the repository in **recursive mode** to download the main repo and its submodules ```git clone --recursive https://github.com/a-slide/Sekator.git```
+* Clone the repository in **recursive mode** to download the main repo and its submodules ```git clone --recursive https://github.com/emlec/Sekator.git```
 
 * Enter the src folder of the program folder
 
